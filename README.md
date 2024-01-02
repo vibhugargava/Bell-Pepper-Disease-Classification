@@ -1,4 +1,4 @@
-#Bell Pepper Disease Identification
+# Bell Pepper Disease Identification
 This is a Deep Learning Project in the agricultural domain. Image Classification is done using Convolutional Neural Network. For training, I have taken the data of Bell Pepper from the "PlantVillage" dataset. (https://www.kaggle.com/datasets/arjuntejaswi/plant-village)
 The technology Stack for this project is:-
 Model Building: tensorflow, CNN, data augmentation
