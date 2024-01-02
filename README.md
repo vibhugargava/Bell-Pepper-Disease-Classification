@@ -1,11 +1,11 @@
 # Bell Pepper Disease Identification
 This is a Deep Learning Project in the agricultural domain. Image Classification is done using Convolutional Neural Network. For training, I have taken the data of Bell Pepper from the "PlantVillage" dataset. (https://www.kaggle.com/datasets/arjuntejaswi/plant-village)
 The technology Stack for this project is:-
-Model Building: tensorflow, CNN, data augmentation
-Backend Server: FastAPI
-Model Optimization: Quantization
-Frontend: React JS
-Deployment: GCP (Google cloud platform, GCF (Google cloud functions)
+1. Model Building: tensorflow, CNN, data augmentation
+2. Backend Server: FastAPI
+3. Model Optimization: Quantization
+4. Frontend: React JS
+5. Deployment: GCP (Google cloud platform, GCF (Google cloud functions)
 
 The model is deployed to GCP so that the model can be accessed using a mobile app (In Progress).
 
